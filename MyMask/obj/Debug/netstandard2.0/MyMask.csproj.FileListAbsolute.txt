@@ -1,0 +1,14 @@
+D:\Respaldo\Proyectos\Proyectos Xamarin\MyMask\MyMask\bin\Debug\netstandard2.0\MyMask.deps.json
+D:\Respaldo\Proyectos\Proyectos Xamarin\MyMask\MyMask\bin\Debug\netstandard2.0\MyMask.dll
+D:\Respaldo\Proyectos\Proyectos Xamarin\MyMask\MyMask\bin\Debug\netstandard2.0\ref\MyMask.dll
+D:\Respaldo\Proyectos\Proyectos Xamarin\MyMask\MyMask\bin\Debug\netstandard2.0\MyMask.pdb
+D:\Respaldo\Proyectos\Proyectos Xamarin\MyMask\MyMask\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Respaldo\Proyectos\Proyectos Xamarin\MyMask\MyMask\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Respaldo\Proyectos\Proyectos Xamarin\MyMask\MyMask\obj\Debug\netstandard2.0\MyMask.AssemblyInfoInputs.cache
+D:\Respaldo\Proyectos\Proyectos Xamarin\MyMask\MyMask\obj\Debug\netstandard2.0\MyMask.AssemblyInfo.cs
+D:\Respaldo\Proyectos\Proyectos Xamarin\MyMask\MyMask\obj\Debug\netstandard2.0\MyMask.csproj.CoreCompileInputs.cache
+D:\Respaldo\Proyectos\Proyectos Xamarin\MyMask\MyMask\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Respaldo\Proyectos\Proyectos Xamarin\MyMask\MyMask\obj\Debug\netstandard2.0\MyMask.dll
+D:\Respaldo\Proyectos\Proyectos Xamarin\MyMask\MyMask\obj\Debug\netstandard2.0\ref\MyMask.dll
+D:\Respaldo\Proyectos\Proyectos Xamarin\MyMask\MyMask\obj\Debug\netstandard2.0\MyMask.pdb
+D:\Respaldo\Proyectos\Proyectos Xamarin\MyMask\MyMask\obj\Debug\netstandard2.0\MyMask.csproj.AssemblyReference.cache

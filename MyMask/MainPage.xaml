@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:Behaviors="clr-namespace:MyMask.Behaviors"
+             xmlns:conv="clr-namespace:MyMask.Converters"
+             x:Class="MyMask.MainPage">
+    <Page.Resources>
+        <conv:CardMaskedConverter x:Key="converter" />
+    </Page.Resources>
+    <StackLayout Padding="50">
+        <Entry  x:Name="txtIdentificador"
+                Keyboard="Numeric"
+                Text="{Binding AccountNumber}">
+            <Entry.Behaviors>
+                <Behaviors:MaskedBehavior Mask="XXXX XXXX XXXX XXXX XX" />
+            </Entry.Behaviors>
+        </Entry>
+
+        <Entry  x:Name="txtIdenPrompt"
+                IsEnabled="False"
+                Keyboard="Numeric"
+                Text="{Binding Source={x:Reference txtIdentificador}, Path=Text.Length, Converter={StaticResource converter}}">
+        </Entry>
+    </StackLayout>
+
+</ContentPage>
